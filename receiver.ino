@@ -1,4 +1,4 @@
-
+//receive information from the sender. It is the station
 #include <ESP8266WiFi.h>
 #include <espnow.h>
 
